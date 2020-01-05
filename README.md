@@ -11,7 +11,7 @@
 -Pro Micro
 
 # Signals
--RST/Reset
+`-RST/Reset
 Pins: RST, 9, 5, D9, RESET/ICSP-5, RST
 -SPI PSS
 Pins: SDA(SS), 10, 53, D10, 10, 10
