@@ -1,4 +1,4 @@
-# This sketch show a simple locking mechanism using the RC522 RFID module.
+# This layout shows a simple locking mechanism using the RC522 RFID module.
 
 # Typical pin layout used: 
 MFRC522, Arduino, Reader/PCD, Uno, Mega, Nano v3, Leonardo/Micro, Pro Micro
